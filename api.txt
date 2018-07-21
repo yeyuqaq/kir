@@ -9,6 +9,6 @@ PS:请勿在任何公共平台宣传本软体
 本软件会持续更新bug或建议联系作者
 找资源请使用主页顶部搜索功能
 搜索请尽量不要全名+
-封面:http://kirikiri.tv/upload/vod/2018-02-22/201802221519278558.jpg+
+封面:http://www.kirikiri.live/vod/2018-02-22/201802221519278558.jpg+
 ip:45.40.243.220+
 接PHPSESSID=gpnboqc5o75u3phcm26nnugho2; userid=35073口
