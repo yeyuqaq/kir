@@ -17,4 +17,4 @@ PS:请勿在任何公共平台宣传本软体
 封面:http://183.232.95.26/offpic_new/2554914970//f71be054-1b4a-495d-a1ae-f56744687f2f/0?vuin=2552698561&term=2+
 网址:http://www.kirikiri.live+
 统计:+
-钥匙:PHPSESSID=vb5g0c6bjbjtr3vl80opot7nl6; HstCnv4026758=6; userid=35073; HstCla4026758=1533112528609; HstPn4026758=5; HstPt4026758=37; HstCns4026758=13+
+钥匙:PHPSESSID=vb5g0c6bjbjtr3vl80opot7nl6; userid=35073; HstPn4026758=1; HstCla4026758=1533125026625; HstPt4026758=39; HstCnv4026758=8; HstCns4026758=15+
